@@ -1,3 +1,5 @@
+## Repo archived, new repo with code improvements [here](https://github.com/nataliaCodes/uPick)
+
 A full stack mini-app built during the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development-bootcamp) within a team of three.
 
 The app works with external APIs to find information about movies, restaurants, books and products. It automatically adds the item to the correct list based on keywords. The user can later mark the item as done or edit to change name and category.
